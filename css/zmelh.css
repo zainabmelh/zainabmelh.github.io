@@ -28,12 +28,12 @@ canvas {
   margin: 0 auto;
 }
 header h1{
-  font-family:'Saira', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   font-size: 30px;
   font-weight: 400;
 }
 section h2{
-  font-family: 'Saira', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   font-weight: 400;
 /*Header and Footer*/
 }
@@ -95,7 +95,6 @@ img{
 /*Navigation*/
  nav{
    text-align: center;
-   background: #A0AAB2;
    position: fixed;
    top: 0;
    width: 76%;
