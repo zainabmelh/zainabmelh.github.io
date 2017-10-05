@@ -44,8 +44,9 @@ header, footer{
 .content-wrap{
   max-width: 950px;
   margin: 0 auto;
-  padding: 50px 53px;
+  padding: 50px 50px;
   overflow: hidden;
+  filter: alpha(opacity=85);
 }
 .col-narrow{
   width: 30%;
@@ -150,7 +151,6 @@ a{
 }
 a:hover{
   text-decoration: none;
-  font-family: 'Roboto Mono', monospace;
   color: #FEF9FF;
 }
 
